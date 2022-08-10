@@ -4,7 +4,7 @@ This is a WiFi-clock with automatic daylight saving time.
 
 You don't need any buttons to set time on this clock. Potentiometer is for brightness and button is for reset.
 
-Display can be almost any type. This time I used MAX7219 without blinking center colon. I don't like blinking clocks.
+Display can be almost any type. This time I used MAX7219 without blinking center colon. I don't like blinking clocks. Also this clock doesn't have a leading zero for hours display.
 
 Tested with NodeMCU ESP8266 and Wemos D1 Mini.
 
