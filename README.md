@@ -8,6 +8,8 @@ Display can be almost any type. This time I used MAX7219 without blinking center
 
 Tested with NodeMCU ESP8266 and Wemos D1 Mini.
 
+https://tg-music.neocities.org/max7219clock.html
+
 Based on: NTP TZ DST - bare minimum
 NetWork Time Protocol - Time Zone - Daylight Saving Time
 https://werner.rothschopf.net/202011_arduino_esp8266_ntp_en.htm
